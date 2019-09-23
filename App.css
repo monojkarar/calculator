@@ -1,0 +1,67 @@
+.container {
+  border: 2px solid #000000;
+  border-radius: 10px;
+  width: 250px;
+  height: 400px;
+  margin: 0 auto;
+  background-color: #000000;
+}
+
+input {
+  margin: 2px;
+  border: none;
+  border-color: transparent;
+  color: #ffffff;
+  width: 98%;
+  height: 80px;
+  text-align: right;
+  font-size: 40px;
+  background-color: #000000;
+}
+.greyButton {
+  height: 50px;
+  width: 50px;
+  margin: 6px;
+  border-radius: 25px;
+  border: none;
+  bordercolor: transparent;
+  font-size: 25px;
+  color: #000000;
+  background-color: #c0c0c0;
+}
+
+.blackButton {
+  height: 50px;
+  width: 50px;
+  margin: 6px;
+  border-radius: 25px;
+  border: none;
+  bordercolor: transparent;
+  font-size: 25px;
+  color: #ffffff;
+  background-color: #3c3c3c;
+}
+
+.orangeButton {
+  height: 50px;
+  width: 50px;
+  margin: 6px;
+  border-radius: 25px;
+  border: none;
+  bordercolor: transparent;
+  font-size: 25px;
+  color: #ffffff;
+  background-color: #eb8334;
+}
+
+.inline {
+  display: inline-table;
+}
+
+.rotate {
+  transform: rotate(45deg);
+}
+
+.extraSpace {
+  width: 110px;
+}
